@@ -6,7 +6,9 @@
 #### 首先确认是否安装下面的
 
     yum install wget
+    
     <br>
+    
     yum install unzip
 
 ## 安装（install）
@@ -17,5 +19,5 @@
     
     
     
-# <li> 感谢mh990731 的脚本
+#### <li> 感谢mh990731 的脚本
     
