@@ -12,7 +12,9 @@
 ## 安装（install）
 
     wget --no-check-certificate https://raw.githubusercontent.com/jcry/ss-panel/master/ssr.sh
+    
     chmod +x ssr.sh
+    
     ./ssr.sh
     
     
