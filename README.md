@@ -7,8 +7,6 @@
 
     yum install wget
     
-    <br>
-    
     yum install unzip
 
 ## 安装（install）
